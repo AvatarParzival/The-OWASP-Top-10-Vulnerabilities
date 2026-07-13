@@ -1,4 +1,4 @@
-# VortexTech Cybersecurity - Week 1: OWASP Top 10 Research
+# VortexTech Cybersecurity - Week 1: OWASP Top 10 Vulnerabilities Research
 
 Research and documentation of 5 vulnerabilities from the current **OWASP Top 10:2025** list, completed for the Vortex Tech Cyber Security Internship (Task 1).
 
