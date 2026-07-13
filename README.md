@@ -26,4 +26,4 @@ This repository contains a research document that explains five of the most crit
 
 ## Author
 
-Parzival, Vortex Tech Cyber Security Internship 2026 (Week 1).
+Abdullah Zubair, Vortex Tech Cyber Security Internship 2026 (Week 1).
