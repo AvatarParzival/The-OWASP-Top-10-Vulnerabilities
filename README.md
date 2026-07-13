@@ -21,13 +21,8 @@ This repository contains a research document that explains five of the most crit
 
 ## Files in this repository
 
-- `owasp-top-10-research.pdf` the full research write up.
-- `README.md`: this file.
-
-## How to read it
-
-No setup or code is required for this task. Open the research document directly on GitHub, or download it and open it in any Markdown viewer, word processor, or PDF reader.
-
+- `VortexTech Week1 OWASP` the full research write up.
+- `README.md`
 
 ## Author
 
